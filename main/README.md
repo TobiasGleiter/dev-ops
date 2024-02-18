@@ -12,3 +12,8 @@ This means that the:
 - Permanent monitoring of the process
 - Process enhances finetuning
 - Pain-Points can directly adjusted
+
+## Why DevOps?
+
+The process of the software development going faster than ever. In 1970 developing a software projected needed one to five years and cost about 1M $ to 100M $. Today software projects are developed in two to twelve weeks and cost about 10k $ to 1M $.
+This fast development reduces the risk of losing the complete business because if the feature does not work it does not cost as much as a one to five year development.
